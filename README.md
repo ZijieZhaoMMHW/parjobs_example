@@ -29,4 +29,4 @@ sh reading_oisstanalysis.sh
 
 Then something like this will jump out.
 
-![Image text](https://github.com/ZijieZhaoMMHW/parjobs_example/blob/master/snapshot.png)
+![Image text](https://github.com/ZijieZhaoMMHW/parjobs_example/blob/main/snapshot.png)
