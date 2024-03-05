@@ -3,7 +3,7 @@ Examples for parallel jobs submission in Gadi
 
 <font size='7'> **Codes presented here may result in huge memory cost, please do not abuse it!!!** </font>
 
-This piece of codes is provided to show a simple example for parallel jobs submission in Gadi.
+This piece of codes is provided to show a simple example for parallel jobs submission in Gadi. Some codes are adapted and modified from [Yueyang Lu](https://github.com/yueyanglu/subjobs) (University of Miami)
 
 Why do we need to submit parallel jobs?
 -------------
