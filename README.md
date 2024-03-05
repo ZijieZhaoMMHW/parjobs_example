@@ -27,6 +27,6 @@ We execute the loop by a simple line of code
 sh reading_oisstanalysis.sh
 ```
 
-Then something like this will jump out.
+Then something like this will jump out, each job indicates the job for a particular year.
 
 ![Image text](https://github.com/ZijieZhaoMMHW/parjobs_example/blob/main/snapshot.png)
